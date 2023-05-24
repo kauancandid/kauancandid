@@ -1,8 +1,8 @@
-# 💫 About Me:
-🔭 Atualmente procurando por oportunidade<br>🌍 Moro na Paraíba 🌞 em Cachoeira dos Indios<br>💼💬 Nesse momento estou sem trabalhar, mas planejo seguir como desenvolvedor java back-end<br>🎓 Sou Graduado em Ciências da Computação, pela Faculdade Católica da Paraíba<br>📚 Já atuei no meio profissional como desenvolvedor back-end java desenvolvendo soluções, e um app/web delivery.
+# 💫 Sobre Mim:
+🔭 Atualmente procurando por oportunidade<br>🌍 Moro na Paraíba 🌞 em Cachoeira dos Indios<br>💼💬 Nesse momento estou sem trabalhar, mas planejo seguir como desenvolvedor java back-end<br>🎓 Sou Graduado em Ciências da Computação, pela Faculdade Católica da Paraíba<br>📚 Já atuei no meio profissional como desenvolvedor back-end java desenvolvendo soluções, e um app/web delivery<br> ✉️ Pode entrar em contato por este e-mail: kauan.bamnvlogs@gmail.com.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kauancandido_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kauancand) 
 
 # 💻 Tech Stack:
